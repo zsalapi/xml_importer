@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Products>
+    <Product>
+        <Id>123</Id>
+        <Name>Supersecret component</Name>
+        <RelId>321</RelId>
+        <RelId>412</RelId>
+    </Product>
+    <Product>
+        <Id>321</Id>
+        <Name>Something additional</Name>
+	    <RelId>123</RelId>
+        <RelId>412</RelId>
+    </Product>
+    <Product>
+        <Id>412</Id>
+        <Name>Extra part</Name>
+        <RelId>123</RelId>
+    </Product>
+</Products>
